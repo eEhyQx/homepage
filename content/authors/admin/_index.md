@@ -7,7 +7,7 @@ bio: My research interests include computer vision, computational photography,
 interests:
   - Computer Vision
   - Computational Photography
-  - Deep Learning.
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
