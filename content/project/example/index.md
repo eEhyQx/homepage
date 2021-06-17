@@ -14,6 +14,6 @@ links: []
 image:
   caption: ""
   focal_point: ""
-  filename: lightdown.png
+  filename: featured.png
 url_code: ""
 ---
