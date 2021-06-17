@@ -1,7 +1,7 @@
 ---
 title: Sliding Matrix
 subtitle: An interesting math game
-date: 2021-06-17T13:58:43.217Z
+date: 2019-08-25T13:58:43.217Z
 summary: An interesting math game
 draft: false
 featured: false
