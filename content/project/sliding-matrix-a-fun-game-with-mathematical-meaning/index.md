@@ -1,5 +1,5 @@
 ---
-title: Sliding Matrix - A fun game with mathematical meaning
+title: Sliding Matrix - an interesting math game
 date: 2021-06-17T13:58:43.217Z
 draft: false
 featured: false
