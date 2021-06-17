@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: 
 url_pdf: ""
 title: Light Down - Render OLAT Data in Realtime
 summary: ""
