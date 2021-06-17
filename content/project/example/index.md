@@ -12,7 +12,7 @@ external_link: https://www.youtube.com/watch?v=2lZv9uCkZEc
 links: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: Smart
   filename: featured.png
 url_code: ""
 ---
