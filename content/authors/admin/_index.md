@@ -1,6 +1,7 @@
 ---
 title: Qixuan Zhang
 role: Undergraduate Student of Computer Science
+avatar_filename: me.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
