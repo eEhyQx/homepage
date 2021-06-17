@@ -1,5 +1,5 @@
 ---
-url_blog: "https://zhuanlan.zhihu.com/p/337441837"
+url_source: "https://zhuanlan.zhihu.com/p/337441837"
 title: ANOME - Stylizing yourself in one second
 date: 2021-06-17T13:37:43.972Z
 draft: false
