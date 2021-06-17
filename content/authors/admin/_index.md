@@ -1,7 +1,7 @@
 ---
 title: Qixuan Zhang
 role: Undergraduate Student of Computer Science
-avatar_filename: me.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include computer vision, computational photography,
   and deep learning.
 interests:
@@ -26,7 +26,7 @@ education:
     - course: Undergra in Computer Science
       institution: SIST@ShanghaiTech University
       year: 2018
-email: ""
+email: zhangqx1@shanghaitech.edu.cn
 superuser: true
 highlight_name: false
 ---
