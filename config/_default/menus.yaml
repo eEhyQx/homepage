@@ -9,9 +9,9 @@ main:
     weight: 10
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 55
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 50
   - name: Contact
     url: '#contact'
