@@ -1,5 +1,7 @@
 ---
 title: Convolutional Neural Opacity Radiance Fields
+external_link: 'https://arxiv.org/pdf/2104.01772.pdf'
+pdf_url: 'https://arxiv.org/pdf/2104.01772.pdf'
 subtitle: ICCP2021
 publication_types:
   - "0"
@@ -10,7 +12,7 @@ authors:
   - Bai Pang
   - Minye Wu
   - Lan Xu
-  - and Jingyi Yu
+  - Jingyi Yu
 draft: false
 featured: false
 image:
