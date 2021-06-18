@@ -1,5 +1,9 @@
 ---
 title: Neural Video Portrait Relighting in Real-time via Consistency Modeling
+pdf_url: 'https://arxiv.org/abs/2104.00484'
+video_url: 'https://youtu.be/fN1cgbsnUTc'
+external_link: 'http://zhang-dragon.com/projects/nvpr/nvpr.html'
+code_url: 'https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling'
 publication_types:
   - "0"
 authors:
