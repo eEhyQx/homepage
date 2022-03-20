@@ -1,5 +1,6 @@
 ---
-title: Towards Controllable and Photorealistic Region-wise Image Manipulation
+title: Towards Controllable and Photorealistic Region-wise Image
+  Manipulation(ACM MM 2021)
 subtitle: ACM MM 2021
 publication_types:
   - "0"
